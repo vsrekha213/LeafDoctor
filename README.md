@@ -1,7 +1,7 @@
 # LeafDoctor - Detect Diseases in Plant Leaf
-## The objective of this project is to identify the type of diseases in the plants, so that it can be treated as soon as they appear.
+### The objective of this project is to identify the type of diseases in the plants, so that it can be treated as soon as they appear.
 
-# Data Set can be found here : https://www.kaggle.com/emmarex/plantdisease
+### Data Set can be found here : https://www.kaggle.com/emmarex/plantdisease
 
 # Data Set Description
   ## The data set consists of 14 different diseases of the plants like **pepper bell bacterial, pepper bell healthy, toamato late blight, early blight** etc...
