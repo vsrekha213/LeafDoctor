@@ -4,7 +4,7 @@
 ### Data Set can be found here : https://www.kaggle.com/emmarex/plantdisease
 
 # Data Set Description
-  ## The data set consists of 14 different diseases of the plants like **pepper bell bacterial, pepper bell healthy, toamato late blight, early blight** etc...
+  ### The data set consists of 14 different diseases of the plants like **pepper bell bacterial, pepper bell healthy, toamato late blight, early blight** etc...
 
 # How to Use this Source Code
 1. clone this repo
