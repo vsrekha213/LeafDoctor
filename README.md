@@ -8,7 +8,7 @@
 
 # Model Training
 #### Model architecture used is as follows :
-## Feature Extraction
+## 1. Feature Extraction
 1. Convolution(32 -> 3 X 3)
 2. Normalization
 3. Pooling(Max)
@@ -18,7 +18,7 @@
 7. Pooling(Max)
 8. Dropout
 
-## Classification
+## 2. Classification
 1. Dense Layer (1024)
 2. Activation used here is # Softmax
 
